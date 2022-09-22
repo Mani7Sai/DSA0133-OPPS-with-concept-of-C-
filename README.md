@@ -1,6 +1,9 @@
 # DSA0133-OPPS-with-concept-of-C-
 The Below Mentioned Programs Compiled and executed in DEV C++                       
 DAY 1:
+
+No. of programs completed/Total programs=15/15
+
 1. Maximum of 3 numbers
 2. Perfect Number
 3. Reverse of a Number
@@ -17,7 +20,10 @@ DAY 1:
 14. Armstrong
 15.Encapsulation
 
-DAY 2 :                                  
+DAY 2 :   
+
+No. of programs completed/Total programs=7/15
+
 1.Area checking 
 2.Arithmetic Operations 
 3.Swapping              
