@@ -18,6 +18,11 @@ DAY 1:
 15.Encapsulation
 
 DAY 2 :                                  
-1.Area checking                          
-3.Swapping                                   
-7.Voting                                         
+1.Area checking 
+2.Arithmetic Operations 
+3.Swapping              
+4.
+5.Employee
+6.Voting Cases
+7.Voting   
+8.
