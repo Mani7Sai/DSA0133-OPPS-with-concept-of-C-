@@ -17,4 +17,6 @@ DAY 1:
 15.Encapsulation
 
 DAY 2
-1.
+1.Area checking 
+3.Swapping
+7.Voting
