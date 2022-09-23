@@ -40,16 +40,31 @@ No. of programs completed/Total programs=13/15
 
 DAY 3 :   
 
-No. of programs completed/Total programs=8/15
+No. of programs completed/Total programs=10/12
 
 1.Student Class
 2.Rectange with 2 data members
 3.Piggy Bank 
+5.Print Number by data types
 6.Character and integer
 8.Info 10 students
 9.Graduate
 10.Bank Balance
 11.Printing a num
+12.RBI Banks
+
+DAY 4 :   
+
+No. of programs completed/Total programs=/18
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
 
 DAY 5 :   
 
