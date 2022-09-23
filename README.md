@@ -50,3 +50,8 @@ No. of programs completed/Total programs=8/15
 9.Graduate
 10.Bank Balance
 11.Printing a num
+
+DAY 5 :   
+
+No. of programs completed/Total programs=1/1
+1.PRE MODEL EXAM
