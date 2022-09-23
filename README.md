@@ -22,13 +22,40 @@ No. of programs completed/Total programs=15/15
 
 DAY 2 :   
 
-No. of programs completed/Total programs=7/15
+No. of programs completed/Total programs=15/15
 
 1.Area checking 
 2.Arithmetic Operations 
 3.Swapping              
-4.
+4.Array
 5.Employee
 6.Voting Cases
 7.Voting   
+8.Conversion
+9.Simple Intrest
+10.
+11.
+12.Marks
+13.Reverse Order
+14.
+15.Electricity bill 
+
+DAY 3 :   
+
+No. of programs completed/Total programs=/15
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
 8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
