@@ -55,7 +55,7 @@ No. of programs completed/Total programs=10/12
 
 DAY 4 :   
 
-No. of programs completed/Total programs=/18
+No. of programs completed/Total programs=5/8
 
 1.Single Inheritance 
 2.
@@ -68,12 +68,12 @@ No. of programs completed/Total programs=/18
 
 DAY 5 :  
 
-No. of programs completed/Total programs=1/1
+No. of programs completed/Total programs=4/7
 
-1.
-2.
-3.
-4.
+1.Mammals and Blue whales  
+2.Fruits mangoes and apples
+6.RBI with concept of OOPs
+7.Bank rules with concept of OOPs
 
 
 
