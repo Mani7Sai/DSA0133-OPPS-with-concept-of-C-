@@ -57,16 +57,25 @@ DAY 4 :
 
 No. of programs completed/Total programs=/18
 
+1.Single Inheritance 
+2.
+3.
+4.Area of circle using pointers
+5.Sum of arrays 
+6.Hybrid Inheritance
+7.Fruits
+8.
+
+DAY 5 :  
+
+No. of programs completed/Total programs=1/1
+
 1.
 2.
 3.
 4.
-5.
-6.
-7.
-8.
 
-DAY 5 :   
 
-No. of programs completed/Total programs=1/1
-1.PRE MODEL EXAM
+
+1.PRE MODEL EXAM  =1/1
+2.Model =3/4
